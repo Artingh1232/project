@@ -1,4 +1,5 @@
 GitHub Pull Request Demo
 Version 1.0
 This change was added via a Pull Request.
-this project demonstrates the GitHub pull request workflow.
+This project demonstrates the GitHub Pull Request workflow by showing how changes are reviewed before merging.
+This project demonstrates the code review process through comments, requested changes, and approval.
